@@ -1,4 +1,4 @@
-name: deployment sekvens
+name: Deployment sekvens
 on: push
 jobs:
   lint:
